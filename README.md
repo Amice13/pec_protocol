@@ -100,6 +100,5 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: kirillzakharov13@gmail.com</li>
-            <li>By visiting this page on our website: http://vyborkom.org</li>
-      
-        </ul>
+        <li>By visiting this page on our website: http://vyborkom.org</li>
+</ul>
