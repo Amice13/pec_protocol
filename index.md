@@ -2,122 +2,44 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div style="margin:auto;">
+<a href="https://play.google.com/store/apps/details?id=com.pro_media.dvk_calc"><img src="./assets/images/android.png"/ style="width: 200px; height: auto; margin-right: 40px"></a>
+<a href="https://itunes.apple.com/us/app/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B4%D0%B2%D0%BA/id1163246707?ls=1&mt=8"><img src="./assets/images/apple.png"/ style="width: 200px; height: auto; margin-right: 40px"></a>
+</div>
+# Description
 
-[Link to another page](./another-page.html).
+This program is an education software intended to control the correctness of completing the precinct election protocols on counting the votes of voters at different types of elections in Ukraine.
 
-There should be whitespace between paragraphs.
+## Last updates
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Updated version includes:
 
-# Header 1
+* check of protocols about Presidential elections
+* UI is redesigned with Google Material Design
+* minor bugs fixed
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Privacy policy
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+You can read the software privacy [here](./privacy.html).
 
 * * *
 
-### Here is an unordered list:
+# Опис
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Дана програма є методичним матеріалом, призначеним для контролю правильності заповнення протоколу дільничної виборчої комісії про підрахунок голосів виборців на виборчій дільниці на виборах народних депутатів України та місцевих виборах
 
-### And an ordered list:
+Версія програми актуальна станом на 1 листопада 2018 р. У разі, якщо порядок підрахунку голосів виборців на виборах народних депутатів України або місцевих виборах змінювався після вказаної дати, - шукайте новішу версію програми на [сайті "Виборком"](http://vyborkom.org).
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Програму розроблено в рамках проекту «Розбудова спроможності в проведенні навчання та підвищення обізнаності виборців» Координатора проектів ОБСЄ в Україні, що здійснюється на запит Центральної виборчої комісії.
 
-### And a nested list:
+## Останні оновлення
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+В оновленій версії програми:
 
-### Small image
+- додана перевірка протоколу про підрахунок голосів на Виборах Президента України
+- використаний Google Material Design
+- виправлені помилки
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+## Політика конфіденційності
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Тест політики конфеденційності можна переглянути за [посиланням](./privacy.html).
