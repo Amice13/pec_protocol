@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div style="margin:auto;">
-<a href="https://play.google.com/store/apps/details?id=com.pro_media.dvk_calc"><img src="./assets/images/android.png"/ style="width: 200px; height: auto; margin-right: 40px"></a>
-<a href="https://itunes.apple.com/us/app/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B4%D0%B2%D0%BA/id1163246707?ls=1&mt=8"><img src="./assets/images/apple.png"/ style="width: 200px; height: auto; margin-right: 40px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.pro_media.dvk_calc"><img src="./assets/images/android.png"/ style="width: auto; height: 140px; margin-right: 40px"></a>
+<a href="https://itunes.apple.com/us/app/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB-%D0%B4%D0%B2%D0%BA/id1163246707?ls=1&mt=8"><img src="./assets/images/apple.png"/ style="width: auto; height: 140px; margin-right: 40px"></a>
 </div>
 
 # Description
